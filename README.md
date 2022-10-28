@@ -2,6 +2,9 @@
 
 A plugin that can access the location services of each platform and collect device location data.
 
+This is a copy of the official [fl_location](https://pub.dev/packages/fl_location) package. I copied it just to adjust few things and use it. I have no intention of making any type of profit out of this code-source.
+
+
 ## Platform
 
 - [x] Android
